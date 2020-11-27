@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+        <meta charset="UTF-8">
+        <title>Visualization graph1</title>
+        </head>
+      <body>
+        <h1>Visual1</h1>
+        <p>
+            The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMAp API to assamble a dataset on over 500 cities.
+        </p>
+      </body>
